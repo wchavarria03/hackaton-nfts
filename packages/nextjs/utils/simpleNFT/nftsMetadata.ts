@@ -2,7 +2,7 @@ const nftsMetadata = [
   {
     description: "It's actually a bison?",
     external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-    image: "https://austingriffith.com/images/paintings/buffalo.jpg",
+    image: "https://ipfs.io/ipfs/bafybeihm6426ijsyyiuqcd4ds55pntqdzco43hmmv5ejziewiuuu3grrjm",
     name: "Buffalo",
     attributes: [
       {
